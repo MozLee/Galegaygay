@@ -7,10 +7,10 @@
 ![2017071214998476395965dbd7d477b.png][2]
 ## typecho-theme-Galegaygay ##
 
-> Galegaygay是以黑灰为主色调，十分简约大方，清爽不油腻的一款typecho主题
-> Designed by sy1x 2017-06		
-> 版本号V1.0.0
-
+> Galegaygay是以黑灰为主色调，十分简约大方，清爽不油腻的一款typecho主题 		 
+## 版本信息 ##
+Designed by sy1x 2017-06
+版本号V1.0.0
  - 响应式布局，适应移动端设备访问。
  - 清爽简约，不油腻。
  - 兼容主流浏览器，啥是IE？
