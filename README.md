@@ -8,8 +8,8 @@
 ## typecho-theme-Galegaygay ##
 
 > Galegaygay是以黑灰为主色调，十分简约大方，清爽不油腻的一款typecho主题
-Designed by sy1x 2017-06		
-版本号V1.0.0
+> Designed by sy1x 2017-06		
+> 版本号V1.0.0
 
  - 响应式布局，适应移动端设备访问。
  - 清爽简约，不油腻。
