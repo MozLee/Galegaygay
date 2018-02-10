@@ -5,7 +5,7 @@
  * @package Galegaygay
  * @author sy1x
  * @version 1.0.0
- * @link http://sy1x.com
+ * @link 
  */
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 ?>
