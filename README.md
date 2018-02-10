@@ -1,7 +1,7 @@
 ### 2018年1月2日更新
-> 版本号v1.1.0
+> 版本号v1.0.2
 
-- 更新MarkDown.css 更好的支持md语法样式。演示样式文章地址:[md演示](http://sy1x.com/index.php/archives/35.html "md演示")
+- 更新MarkDown.css 更好的支持md语法样式。
 - 修复搜索框跳动bug
 - 更新sidebar内容
 - hr由60%调整为100%
